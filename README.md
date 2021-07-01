@@ -44,4 +44,4 @@ change some text.
 
 45 feature change.
 
-47 feature change!
+47 feature change.
