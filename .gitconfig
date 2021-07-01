@@ -1,0 +1,5 @@
+[merge]
+	ff = false
+[pull]
+	ff = false
+	rebase = true
