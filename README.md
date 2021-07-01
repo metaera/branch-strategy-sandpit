@@ -47,3 +47,5 @@ change some text.
 47 feature change.
 
 49 feature change.
+
+51 git config --local include.path ../.gitconfig
